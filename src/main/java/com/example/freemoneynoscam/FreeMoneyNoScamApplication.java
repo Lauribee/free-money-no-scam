@@ -1,5 +1,6 @@
 package com.example.freemoneynoscam;
 
+import com.example.freemoneynoscam.services.ValidateEmailService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
